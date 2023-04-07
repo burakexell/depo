@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: iphoneos-arm
+Components: main
+Date: Fri, 07 Apr 2023 23:35:55 +0000
+Description: Nobody reads this lol
+Label: Burak's Repo 
+Origin: Burak's Repo 
+Suite: stable
+Version: 2.0
+MD5Sum:
+ f8a36f071f8e43c5c1a97fea86673a48           319405 Packages
+ 6328b4f979e650e682e8e125e7d190dd            87590 Packages.bz2
+ e64155354ec87e75b0627e9d29c52ce1           109035 Packages.gz
+ dd35a509a7945c80db8d4e6a5f490405            90316 Packages.xz
+ bbc0ddb27660005747b358a64aa09d57            92524 Packages.zst
+ e6f0f24afcb2296829a99f766c9b4a82              211 Release
+SHA1:
+ 70bd6aa1dace0cb2eb01496fae6e19b23c6db6ca           319405 Packages
+ a2170f251f895c8144eb0cb2685f666093ae3ed7            87590 Packages.bz2
+ e35738c50986029a4a3334935abd707dd4843e64           109035 Packages.gz
+ b30d203934ea9838fb277a31ef151363f332076a            90316 Packages.xz
+ dee1d346e251c40f37f7151e549471e584f04363            92524 Packages.zst
+ d1e6ff150fd3b22eda08cfb8dec0a2b9736783b2              211 Release
+SHA256:
+ 495eeb83e3194eab6bdd58f44b0d5f7eef4925845eb6d16e3dbb6c26904b934f           319405 Packages
+ ff0e7a20c8c5960f1751075098d65fff6fa942f46e609da7d9f0f8f7d5dfd062            87590 Packages.bz2
+ cc77b5cf09eff3d7981d36c538e81bc3f546ffccc4d9a660efd084ec5e2aaba9           109035 Packages.gz
+ 952680770ddb1a6966d97869e52b0d5ddb353d5730afe23ec2e256c2222310f6            90316 Packages.xz
+ 1e7dbca3c591a3bc93e991b46ca9b921e45af641d135daf7e51198fcaa3a5d6d            92524 Packages.zst
+ 0270fbb793e1dff157ddfaf1afa755d3ea1a7c9efc5c2144b0358598730d88d5              211 Release
+SHA512:
+ 1b31e81412256f1b6664dab14e6e17427b5c7143cd5a11b48782bfd738c8a48261524c67b887d03958033e8323373c035231aff63c827eeabb13aa3804626959           319405 Packages
+ 12139c35667ad51772c4eedbeb7e3e05d9755bd94b3875ce22fec440de7e50afe2b54d8c3b1ea5a8d9753fd2fe28395b926cbe9c8ce5866918f8ef835611d4ad            87590 Packages.bz2
+ e5b5d8736184b2141e942c8fa4d0c2dab43f14a5d487fdb5afe06f4cc478e0c4e2a1d4f42ace28ffc2ba30cb49c0aa309ead422eab4eed7276d687a671e740f4           109035 Packages.gz
+ d25298b135dcb1742b0c6b93e270de9b10e4a806c87dda34f7c40ee5fcbcf6c9198ca672a523f8b9cf4cdad13baa4dad1660addc8addc66658f2ce6ea2f97558            90316 Packages.xz
+ 3a80ceecc51a09467220f67d8421f3c9ccb2b7ebb473d7033c949cd06e415fdb673fd613d92cab3060fb6e0da9bff290114a615551eef48a27136ccd8df97e47            92524 Packages.zst
+ 1b6aa9d29be142fb4efd61975a0bb7b61917ac7b5b6056c83a8bf5801f422cd365b5388c842ac7fd19b26c6d4e826c83a3421e3e443c7b583d5a899741a2a04b              211 Release
