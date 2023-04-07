@@ -6,12 +6,14 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
+	  - name: Update Git details
+		run: |
+        	git config --global user.email "84246344+burakexell@users.noreply.github.com"
+        	git config --global user.name "burakexell"
       - name: Update Packages
         run: |
           chmod +x ./updaterepo.sh
           ./updaterepo.sh
-          git config --global user.email "84246344+burakexell@users.noreply.github.com"
-          git config --global user.name "burakexell"
           git add .
           git commit -a -m "Packages updated. <Auto Action>"
           git push
