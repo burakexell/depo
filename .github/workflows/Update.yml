@@ -1,19 +1,24 @@
 name: Update Full
-on: [push]
+on:
+  push:
+    branches: [ main ] # replace "main" with your default branch name
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
-        uses: actions/checkout@v3
-	  - name: Update Git details
-		run: |
-        	git config --global user.email "84246344+burakexell@users.noreply.github.com"
-        	git config --global user.name "burakexell"
+        uses: actions/checkout@v2
+
+      - name: Update Git details
+        run: |
+          git config --global user.email "84246344+burakexell@users.noreply.github.com"
+          git config --global user.name "burakexell"
+
       - name: Update Packages
         run: |
           chmod +x ./updaterepo.sh
           ./updaterepo.sh
           git add .
-          git commit -a -m "Packages updated. <Auto Action>"
+          git commit -m "Packages updated. <Auto Action>"
           git push
