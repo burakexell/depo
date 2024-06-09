@@ -5411,11 +5411,11 @@ Installed-Size: 356
 Depends: mobilesubstrate, firmware (>= 14.2)
 Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget, com.p2kdev.tinywidget14
 Filename: ./debians/xyz.burakexe.printemps_1.1.0.deb
-Size: 19080
-MD5sum: 21c52575a9ad8df6edb0e6fad74e8f58
-SHA1: fa9d3d7e417c6163cb5544b6661d694b5a219612
-SHA256: c08955160f23b80630b07aec37cd0b993ded4358092e25090c6bcd23e3fa262f
-SHA512: 6bb5ea458efa8ce42850fdf3239269d663ba5f05a58182cc48d9a4738fcb8d308e7ede94cb5a3176e0849d24f8d71a071cfa25fa8cf3e2ddd3dbe6de85704473
+Size: 19364
+MD5sum: 5b6d4d7b8ce70df85ccced4f56e5cb4d
+SHA1: ebfa9870f84ee4352864275560db559c2a8b5550
+SHA256: c39e1214cdc0a6addd0e9445d4d44b63c64f1c50c32f68baec343a29d5033a21
+SHA512: fd2c88f30d6328439957af6a1110c2a1da5dada463007ad4e74dcbcce417faaf91fb8e5f4053be4d5545c3678905a54bff79c808e00431d73292a0fabc00a257
 Description: Çok küçük müzik widget'ı
 Name: Printemps
 Author: Burakexe
@@ -6476,6 +6476,23 @@ SHA512: 30c8102862af36eb9be7297036cf53c9838cf687c1a36798adcfc69d5e27dfdd4f4ff3d4
 Description: Amdroid Lockscreen
 Name: Waktos
 Author: alimaulana
+
+Package: xyz.burakexe.wallcraft
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Burakexe
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/xyz.burakexe.wallcraft_0.0.2_iphoneos-arm.deb
+Size: 5568
+MD5sum: 9d4e4ff6bc0d6ed5433a0c4f1ca40add
+SHA1: c94c75658dcec8b8b4d0073889d0c249fffd53ee
+SHA256: 977852e427f10c7beb4a5b49d0ab587804573f792a8e45824dab7d3aec412e85
+SHA512: 5c1a83742ed39b495cfb50b1a1e09160a32e26b594b4016bf1ada8361cf7b3f74247d9227c07f82f75f964ce625735358c54d5d4cbb418612702c6179f123b06
+Description: WallCraft premium bedava
+Name: WallCraft Premium Bedava
+Author: Burakexe
 
 Package: xyz.burakexe.waqt
 Architecture: iphoneos-arm
