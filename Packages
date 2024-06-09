@@ -5411,11 +5411,11 @@ Installed-Size: 356
 Depends: mobilesubstrate, firmware (>= 14.2)
 Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget, com.p2kdev.tinywidget14
 Filename: ./debians/xyz.burakexe.printemps_1.1.0.deb
-Size: 18996
-MD5sum: 9362d1367e75800344c3dcffaf591f06
-SHA1: 82dd2929b967ff16908e62c0665b3ee734be4c15
-SHA256: e947d88f2eb1eeb492d28b11cc7111ee8177f5969ec18c61dc3f031b8fc29b87
-SHA512: c3810741f326134365921163fa609320f69b997aabe3b4e36a798f3c876292785e97592729b08ee417255f4362d62c0528b530fec3c7cab0d97917db5491f0a1
+Size: 19080
+MD5sum: 21c52575a9ad8df6edb0e6fad74e8f58
+SHA1: fa9d3d7e417c6163cb5544b6661d694b5a219612
+SHA256: c08955160f23b80630b07aec37cd0b993ded4358092e25090c6bcd23e3fa262f
+SHA512: 6bb5ea458efa8ce42850fdf3239269d663ba5f05a58182cc48d9a4738fcb8d308e7ede94cb5a3176e0849d24f8d71a071cfa25fa8cf3e2ddd3dbe6de85704473
 Description: Çok küçük müzik widget'ı
 Name: Printemps
 Author: Burakexe
