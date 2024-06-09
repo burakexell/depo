@@ -6485,11 +6485,11 @@ Maintainer: Burakexe
 Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/xyz.burakexe.wallcraft_0.0.2_iphoneos-arm.deb
-Size: 5568
-MD5sum: 9d4e4ff6bc0d6ed5433a0c4f1ca40add
-SHA1: c94c75658dcec8b8b4d0073889d0c249fffd53ee
-SHA256: 977852e427f10c7beb4a5b49d0ab587804573f792a8e45824dab7d3aec412e85
-SHA512: 5c1a83742ed39b495cfb50b1a1e09160a32e26b594b4016bf1ada8361cf7b3f74247d9227c07f82f75f964ce625735358c54d5d4cbb418612702c6179f123b06
+Size: 5748
+MD5sum: c55d3845792920047b01a2352e98bad3
+SHA1: 82f105ce4e6956e307e7337c1ea3b7a385d4ce05
+SHA256: b5052a4626a5ddaf1ee221327b17837dd8d14087b6c5fb80756548fa3c0901d4
+SHA512: d3c49ee458ffeba03df0366711fd45c4909dc9e8ced2b22bab6e9907091cb839e468aeb824a435dd9f1e4a3b102d947478640e293ba33dd747a8b937c71bcc0c
 Description: WallCraft premium bedava
 Name: WallCraft Premium Bedava
 Author: Burakexe
