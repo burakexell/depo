@@ -7010,6 +7010,27 @@ Name: MusicBackground
 Author: Ethan Whited
 Icon: https://repo.packix.com/api/Packages/619703a1eb1a05001bdcb96a/icon/download?size=medium&hash=619703a2eb1a05001bdcb970
 
+Package: xyz.burakexe.regramk
+Architecture: iphoneos-arm64
+Version: 1.0~b7
+Section: Tweaks
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Conflicts: xyz.cypwn.regram, xyz.cypwn.regramcrack
+Replaces: xyz.cypwn.regram, xyz.cypwn.regramcrack
+Filename: ./debians/xyz.cypwn.regramk_1.0~b7.deb
+Size: 5744808
+MD5sum: 539bb732c199bc1ee28adc4d506a578d
+SHA1: 44a29e51f473ec9caac886e4e418f131cd852a1f
+SHA256: 4c052f8d86f4ade8bbd31857c6541f2129c8e24b62c260bf1b8f25a63d24fd0f
+SHA512: 5cc4c6941cdb02f24be57ef5d43b54207b4e88d83634afc3f6792078a33f694c13f5d39904abecdee9b57cdabd7808f0f6617efc8481f3062b9959f513d61d9f
+Description: The all-in-one tweak for Instagram. Cracked by CBZ
+Depiction: https://repo.cypwn.xyz/depiction/2539
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2539
+Icon: https://repo.cypwn.xyz/packages/RegramforInstagram-Rootless/icon.png
+Name: Regram for Instagram
+Author: Fouad Raheb
+
 Package: xyz.cypwn.sbypass
 Architecture: iphoneos-arm
 Version: 2.0.1
