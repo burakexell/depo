@@ -6149,6 +6149,27 @@ Author: Burakexe
 Name: TikTokLRD
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/tiktoklrd.png
 
+Package: xyz.burakexe.toneenabler
+Architecture: iphoneos-arm
+Version: 1.1r-14
+Section: Tweaks
+Maintainer: Burakexe
+Installed-Size: 161
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Filename: ./debians/xyz.burakexe.toneenabler_1.1r-14.deb
+Size: 20756
+MD5sum: ca5a1bd0bbf2ecdf3c9bae135e55f515
+SHA1: d4f91416d3d82e46e13cfb5407999cb1c414c944
+SHA256: 3637358657709814d933a3cbbfef31328ed078ca7bb5e66aa26543848c0ba503
+SHA512: a7022045c3c4bf9dfd91ebfef66ca2c8697c557ea4defac462c4c4d43de02f1a59a2d3e5873a3aaa6e8159c7d8381a8382b9544e129fa468d28e3604531ece65
+Homepage:
+Description: Zil sesinizi kolaylıkla değiştirin
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Depiction:
+Author: Burakexe
+Name: ToneEnabler
+dev: i4iphones
+
 Package: xyz.burakexe.tosaka
 Architecture: iphoneos-arm
 Version: 1.0.0
