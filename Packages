@@ -5402,6 +5402,24 @@ Author: Burakexe
 Sponsor: Ginsu Tweaks <njl02@outlook.com>
 SomeOtherEntryToControl: True
 
+Package: xyz.burakexe.printemps
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Burakexe
+Installed-Size: 356
+Depends: mobilesubstrate, firmware (>= 14.2)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget, com.p2kdev.tinywidget14
+Filename: ./debians/xyz.burakexe.printemps_1.1.0.deb
+Size: 18996
+MD5sum: 9362d1367e75800344c3dcffaf591f06
+SHA1: 82dd2929b967ff16908e62c0665b3ee734be4c15
+SHA256: e947d88f2eb1eeb492d28b11cc7111ee8177f5969ec18c61dc3f031b8fc29b87
+SHA512: c3810741f326134365921163fa609320f69b997aabe3b4e36a798f3c876292785e97592729b08ee417255f4362d62c0528b530fec3c7cab0d97917db5491f0a1
+Description: Çok küçük müzik widget'ı
+Name: Printemps
+Author: Burakexe
+
 Package: xyz.burakexe.prokeys
 Architecture: iphoneos-arm
 Version: 1.1.2k
