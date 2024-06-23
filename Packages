@@ -4336,7 +4336,7 @@ Section: Tweaks
 Maintainer: Burakexe
 Installed-Size: 436
 Depends: mobilesubstrate,preferenceloader
-Filename: ./debians/xyz.burakexe.gtasa60fps_0.0.5_iphoneos-arm.deb
+Filename: ./debians/xyz.burakexe.gtasa60fps_0.0.5.deb
 Size: 92688
 MD5sum: babdbc407578630ff035061b7d396f1d
 SHA1: b2fc863a8738298688dfd9c08dd1286e248f22d9
