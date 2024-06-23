@@ -4044,6 +4044,25 @@ Author: burakexe
 Depiction: https://repo.co.kr/depictions/com.matteozappia.edictus
 SileoDepiction: https://repo.co.kr/api/package/getSileoDepictions/com.matteozappia.edictus
 
+Package: xyz.burakexe.eeveespotify
+Architecture: iphoneos-arm64
+Version: 4.2
+Section: Tweaks
+Maintainer: Burakexe
+Depends: dev.theos.orion14 (>= 1.0.1), firmware (>= 14.0)
+Filename: ./debians/xyz.burakexe.eeveespotify_4.2.deb
+Size: 268352
+MD5sum: a889850bf0534cf5f13b7fce49764a9c
+SHA1: a65656e0e609e1a08280f464d847c25b2bf842a6
+SHA256: 4f54a302a8c860f11c0bbd6bf5815f731a853ccdd8feba107508bc948560bbbf
+SHA512: c0630fa86beef6f02346422039baea0d1db98126b884601e4b43308696c6da56754e7fc768bfcc38160ad6889583741889faaacaeec8f0e86057990539f119cb
+Description: A tweak to get Spotify Premium for free, just like Spotilife.
+Depiction:
+SileoDepiction:
+Icon:
+Name: EeveeSpotify
+Author: Burakexe
+
 Package: xyz.burakexe.emerald
 Architecture: iphoneos-arm
 Version: 1.0.7
