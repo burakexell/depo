@@ -3873,6 +3873,25 @@ Author: Burakexe
 Sponsor: Ginsu Tweaks
 SomeOtherEntryToControl: True
 
+Package: xyz.burakexe.doodle
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Burakexe
+Depends: preferenceloader
+Filename: ./debians/xyz.burakexe.doodle_1.0.deb
+Size: 3578488
+MD5sum: bf66fd844a548c46b04da4f8b131845f
+SHA1: d85faee17adf6ab0f84325ca34497edd8a8214e1
+SHA256: c0dc4ab373d8ba07b048ae1660ebd68e2f17bf2e2b425414267ea67887b3d2b6
+SHA512: 9c3433741e7278bc8b23df37b6bfcfbb691a321ad2f0e1cd50aa3985a50308f0f0d228fe0b20e01b7d19997462040a67009dfe9a8f1d74478b351af7d4928810
+Description: Bir karalama kullanarak cihazın kilidini açın
+Depiction:
+SileoDepiction:
+Icon: https://repo.cypwn.xyz/packages/Doodle-Rootless/icon.png
+Name: Doodle
+Author: Ethan Whited
+
 Package: xyz.burakexe.downloadbar13
 Architecture: iphoneos-arm
 Version: 1.0.1
