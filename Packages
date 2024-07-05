@@ -722,6 +722,24 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
 Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
 
+Package: com.foxfort.aperturize
+Architecture: iphoneos-arm
+Version: 2.4.0
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 928
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.4.0)
+Filename: ./debians/com.foxfort.aperturize_2.4.0.deb
+Size: 251060
+MD5sum: 48f77bc09affff8c2ff11c31f7b4515c
+SHA1: 110835741a739727d21f304841544ce71b09fb84
+SHA256: 9528ddacf67ae7e7733e9291764c3757ce0f5cdd839be7eaabd7aa878fdc7b2f
+SHA512: b1a6b7f28925067226e33fe7c37236888c51b0d3ca8574abbc58e3202fbaceb1e1d5d26f570ebb5bd5e506d3b9384857370e79f80a33d3dcb606cc760a2ad251
+Description: Adjustable bokeh for portrait mode
+Name: Aperturize
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/aperturizesettings.bundle/icon@3x.png
+
 Package: com.galacticdev.kumquat
 Architecture: iphoneos-arm
 Version: 1.1
