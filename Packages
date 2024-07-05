@@ -3881,10 +3881,10 @@ Maintainer: Burakexe
 Depends: preferenceloader
 Filename: ./debians/xyz.burakexe.doodle_1.0.deb
 Size: 3578488
-MD5sum: bf66fd844a548c46b04da4f8b131845f
-SHA1: d85faee17adf6ab0f84325ca34497edd8a8214e1
-SHA256: c0dc4ab373d8ba07b048ae1660ebd68e2f17bf2e2b425414267ea67887b3d2b6
-SHA512: 9c3433741e7278bc8b23df37b6bfcfbb691a321ad2f0e1cd50aa3985a50308f0f0d228fe0b20e01b7d19997462040a67009dfe9a8f1d74478b351af7d4928810
+MD5sum: 4a37a5b013a9552eeb60ed4984000eb7
+SHA1: f9f624a40f845dc62fafc8aa6aaae9a18e674ddc
+SHA256: 94c49da5355ebcaad30d4c4c0cc1f32e0a6476d4fbc425c05d5842a9ca2acc9b
+SHA512: e59752d9da2d781933bf6b850c7609b615c3ec2782452ac6404cfc134cbdfb8133e47d39ab404708a812e9df3e696d4d9399594383594707bb8a373e72ee1795
 Description: Bir karalama kullanarak cihazın kilidini açın
 Depiction:
 SileoDepiction:
@@ -4071,10 +4071,10 @@ Maintainer: Burakexe
 Depends: dev.theos.orion14 (>= 1.0.1), firmware (>= 14.0)
 Filename: ./debians/xyz.burakexe.eeveespotify_4.2.deb
 Size: 268352
-MD5sum: a889850bf0534cf5f13b7fce49764a9c
-SHA1: a65656e0e609e1a08280f464d847c25b2bf842a6
-SHA256: 4f54a302a8c860f11c0bbd6bf5815f731a853ccdd8feba107508bc948560bbbf
-SHA512: c0630fa86beef6f02346422039baea0d1db98126b884601e4b43308696c6da56754e7fc768bfcc38160ad6889583741889faaacaeec8f0e86057990539f119cb
+MD5sum: 51bc7ad16efd67517cebda8b727a4497
+SHA1: 603f7580df009eb3b2d50a558faa233c0e5391ce
+SHA256: 8d84b6b1f600492d63f348f55160e47b177f40e12240df9f6982799817c07f10
+SHA512: d203a72795d3ac9567575b2d96278d6c96fc70df14cbbd38f8ad05ef82f9d19ceb970bf18835b5f3a2115506fc0fca5681898c1bff87b348d7c2e22d53d6d08c
 Description: A tweak to get Spotify Premium for free, just like Spotilife.
 Depiction:
 SileoDepiction:
